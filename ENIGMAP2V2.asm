@@ -29,6 +29,7 @@ Ref byte 0
 Rotations DWORD OFFSET InitIII,OFFSET InitII,OFFSET InitI,OFFSET ref,OFFSET InitI,OFFSET InitII,OFFSET InitIII
 .code
 ;
+;
 ;--------------------------------------------------main PROC------------------------------------------------
 main PROC
 
