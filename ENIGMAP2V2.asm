@@ -28,7 +28,7 @@ Ref byte 0
 ;Rotations contains addresses of variables for Rotor Values corresponding to the order in encryptOrder
 Rotations DWORD OFFSET InitIII,OFFSET InitII,OFFSET InitI,OFFSET ref,OFFSET InitI,OFFSET InitII,OFFSET InitIII
 .code
-
+;
 ;--------------------------------------------------main PROC------------------------------------------------
 main PROC
 
